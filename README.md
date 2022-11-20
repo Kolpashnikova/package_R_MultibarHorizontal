@@ -18,7 +18,7 @@ MultibarHorizontal(df)
 
 You can try the interactive demo here: (https://kolpashnikova.github.io/work_in_progress)
 
-![Transitions](https://github.com/Kolpashnikova/package_R_MultibarHorizontal/blob/main/examples/MultibarHorizontal.png)
+![MultibarHorizontal](https://github.com/Kolpashnikova/package_R_MultibarHorizontal/blob/main/examples/MultibarHorizontal.png)
 
 
 ### References
