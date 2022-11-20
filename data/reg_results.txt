@@ -1,0 +1,177 @@
+[
+{
+"key": "Work Hours",
+"values": [{
+"label" : "Total" ,
+"value" : 0.204752768
+} ,
+{
+"label" : "Cooking" ,
+"value" : 0.101689163
+} ,
+{
+"label" : "Cleaning" ,
+"value" : 0.100148508
+} ,
+
+{
+"label" : "Shopping" ,
+"value" : 0.179902755
+} ,
+{
+"label" : "Maintenance" ,
+"value" : -0.184608121
+}
+]
+},
+{
+"key": "SP: Work Hours",
+"values": [
+{
+"label" : "Total" ,
+"value" : 0.052147601
+} ,
+{
+"label" : "Cooking" ,
+"value" : 0.011487351
+} ,
+{
+"label" : "Cleaning" ,
+"value" : 0.033215503
+} ,
+{
+"label" : "Shopping" ,
+"value" : 0.075972447
+} ,
+{
+"label" : "Maintenance" ,
+"value" : -0.048544939
+}
+]
+},
+{
+"key": "Log(Income)",
+"values": [
+{
+"label" : "Total" ,
+"value" : 0.000191882
+} ,
+{
+"label" : "Cooking" ,
+"value" : 0.00065269
+} ,
+{
+"label" : "Cleaning" ,
+"value" : -0.000063
+} ,
+{
+"label" : "Shopping" ,
+"value" : -0.000405186
+} ,
+{
+"label" : "Maintenance" ,
+"value" : 0.000300455
+}
+]
+},
+{
+"key": "Employed",
+"values": [
+{
+"label" : "Total" ,
+"value" : 0.092059041
+} ,
+{
+"label" : "Cooking" ,
+"value" : 0.071560974
+} ,
+{
+"label" : "Cleaning" ,
+"value" : 0.065113263
+} ,
+{
+"label" : "Shopping" ,
+"value" : 0.02471637
+} ,
+{
+"label" : "Maintenance" ,
+"value" : -0.011202678
+}
+]
+},
+{
+"key": "SP: Employed",
+"values": [
+{
+"label" : "Total" ,
+"value" : 0.022110701
+} ,
+{
+"label" : "Cooking" ,
+"value" : 0.031146385
+} ,
+{
+"label" : "Cleaning" ,
+"value" : 0.012612688
+} ,
+{
+"label" : "Shopping" ,
+"value" : -0.01904376
+} ,
+{
+"label" : "Maintenance" ,
+"value" : 0.008756116
+}
+]
+},
+{
+"key": "Her Earnings",
+"values": [
+{
+"label" : "Total" ,
+"value" : -0.007837638
+} ,
+{
+"label" : "Cooking" ,
+"value" : -0.003550636
+} ,
+{
+"label" : "Cleaning" ,
+"value" : -0.005082725
+} ,
+{
+"label" : "Shopping" ,
+"value" : -0.008103728
+} ,
+{
+"label" : "Maintenance" ,
+"value" : 0.004764357
+}
+]
+},
+{
+"key": "Other",
+"values": [
+{
+"label" : "Total" ,
+"value" : -0.020191882
+} ,
+{
+"label" : "Cooking" ,
+"value" : -0.013340992
+} ,
+{
+"label" : "Cleaning" ,
+"value" : -0.009747119
+} ,
+{
+"label" : "Shopping" ,
+"value" : -0.011345219
+} ,
+{
+"label" : "Maintenance" ,
+"value" : 0.014464761
+}
+]
+}
+]

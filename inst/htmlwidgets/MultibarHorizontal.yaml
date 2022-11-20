@@ -1,0 +1,11 @@
+# (uncomment to add a dependency)
+dependencies:
+  - name: MultibarHorizontal
+    version: 1.0.0
+    src: htmlwidgets/lib/MultibarHorizontal-1.0.0
+    script:
+      - d3.min.js
+      - nv.d3.js
+      - stream_layers.js
+    stylesheet:
+      - nv.d3.css
