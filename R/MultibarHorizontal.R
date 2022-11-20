@@ -11,11 +11,13 @@
 #'
 #'
 #' @export
-MultibarHorizontal <- function(df, width = NULL, height = NULL, elementId = NULL) {
+MultibarHorizontal <- function(df, xax = "X Axis", yax = "Y Axis", width = NULL, height = NULL, elementId = NULL) {
 
   # forward options using x
   x = list(
     data = df,
+    xaxis = xax,
+    yaxis = yax,
     message = "works"
   )
 

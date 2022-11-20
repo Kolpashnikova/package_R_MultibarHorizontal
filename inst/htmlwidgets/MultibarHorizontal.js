@@ -30,8 +30,8 @@ HTMLWidgets.widget({
 
             chart.yAxis.tickFormat(d3.format(',.2f'));
 
-            chart.yAxis.axisLabel('Y Axis');
-            chart.xAxis.axisLabel('X Axis').axisLabelDistance(20);
+            chart.yAxis.axisLabel(x.yax);
+            chart.xAxis.axisLabel(x.xax).axisLabelDistance(20);
 
             d3.select('#chart1 svg')
                 .datum(long_short_data)

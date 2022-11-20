@@ -4,7 +4,14 @@
 \alias{MultibarHorizontal}
 \title{Multi-Bar Horizontal Plot in R}
 \usage{
-MultibarHorizontal(df, width = NULL, height = NULL, elementId = NULL)
+MultibarHorizontal(
+  df,
+  xax = "X Axis",
+  yax = "Y Axis",
+  width = NULL,
+  height = NULL,
+  elementId = NULL
+)
 }
 \arguments{
 \item{df}{json data, which looks like the one in examples/reg_results.txt (see GitHub). Please create a file and read from it.}
